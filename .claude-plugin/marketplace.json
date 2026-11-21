@@ -1,11 +1,13 @@
 {
   "name": "day-trader-skill",
-  "owner": { "name": "Jake Schincariol" },
+  "owner": {
+    "name": "mishrasatvik94"
+  },
   "plugins": [
     {
       "name": "day-trader-skill",
       "source": "./",
-      "description": "Day trading analysis and trade-planning skill"
+      "description": "Day trading analysis, setup evaluation, risk sizing, and trade journaling skill"
     }
   ]
 }

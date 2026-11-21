@@ -1,6 +1,11 @@
 {
   "name": "day-trader-skill",
   "version": "0.1.0",
-  "description": "Helps plan and review day trades: setups, risk sizing, and trade journaling.",
-  "author": { "name": "Jake Schincariol" }
+  "description": "Helps plan and review day trades: pre-market plans, setup evaluation, risk sizing, and trade journaling.",
+  "author": {
+    "name": "mishrasatvik94"
+  },
+  "homepage": "https://github.com/mishrasatvik94/day-trader-skill",
+  "repository": "https://github.com/mishrasatvik94/day-trader-skill",
+  "license": "MIT"
 }
